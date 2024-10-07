@@ -1,0 +1,9 @@
+opencv-python
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch
+torchvision
+onnxruntime-directml==1.16
+onnx
+onnxsim
+kaggle
+numpy==1.26.4
